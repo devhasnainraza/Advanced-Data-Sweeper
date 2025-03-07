@@ -1,0 +1,16 @@
+# Secrets
+.secrets/
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+*.csv
+*.xlsx
+report.html
